@@ -1,2 +1,2 @@
-# meetups
-Repo für die Planung von Meetups
+# Meetups
+Repo für die Planung von Svelte Meetups in HH oder online
